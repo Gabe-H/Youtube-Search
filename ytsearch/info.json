@@ -1,0 +1,18 @@
+{
+    "author": [
+      "Gaba H"
+    ],
+    "bot_version": [
+      3,
+      0,
+      0
+    ],
+    "description": "Youtube Searcher",
+    "hidden": false,
+    "install_msg": "Thank you for installing ytsearch! Get started with `[p]load ytsearch`",
+    "requirements": [],
+    "short": "BC the builtin search broke",
+    "tags": [
+        "search"
+    ]
+  }
