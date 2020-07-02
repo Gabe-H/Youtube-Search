@@ -3,11 +3,11 @@ import discord
 import requests
 import json
 
-class ytSearch(commands.Cog):
+class ytsearch(commands.Cog):
     """Easy youtube searcher"""
 
     @commands.command()
-    async def ytSearch(self, ctx):
+    async def ytsearch(self, ctx):
         headers = {
             "Authroization": "Bearer AIzaSyCG2iX8LVoryxzA2HBb80EOVnWkGaoPye4",
             "Accept": "application/json",
